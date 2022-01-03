@@ -1,0 +1,38 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-cost-center-reads/SAP_API_Caller/caller.go#L58",
+	"function": "sap-api-integrations-cost-center-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"ControllingArea": "A000",
+			"CostCenter": "10101101",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ValidityStartDate": "/Date(1325376000000)/",
+			"CompanyCode": "1010",
+			"BusinessArea": "",
+			"CostCtrResponsiblePersonName": "SAP",
+			"CostCtrResponsibleUser": "CB9980000280",
+			"CostCenterCurrency": "EUR",
+			"ProfitCenter": "YB600",
+			"Department": "",
+			"FunctionalArea": "YB40",
+			"Country": "",
+			"Region": "",
+			"CityName": "",
+			"CostCenterStandardHierArea": "0001",
+			"CostCenterCategory": "W",
+			"IsBlkdForPrimaryCostsPosting": "",
+			"IsBlkdForSecondaryCostsPosting": "",
+			"IsBlockedForRevenuePosting": "",
+			"IsBlockedForCommitmentPosting": "",
+			"IsBlockedForPlanPrimaryCosts": "",
+			"IsBlockedForPlanSecondaryCosts": "",
+			"IsBlockedForPlanRevenues": "",
+			"ConsumptionQtyIsRecorded": "",
+			"Language": "",
+			"CostCenterCreationDate": "/Date(1466380800000)/",
+			"to_Text": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_COSTCENTER_SRV/A_CostCenter(ControllingArea='A000',CostCenter='10101101',ValidityEndDate=datetime'9999-12-31T00%3A00%3A00')/to_Text"
+		}
+	],
+	"time": "2022-01-03T15:47:33.807262+09:00"
+}
